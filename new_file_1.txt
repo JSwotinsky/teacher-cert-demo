@@ -1,8 +1,10 @@
 this
 is
-insert here
 a
 file
+
+added more stuff here
+
 adding 
 more 
 lines
